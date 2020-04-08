@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "print (\"This was an already existing project\")",
+    "created" : 1586355127963.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "3277844795",
+    "id" : "D0FAFD41",
+    "lastKnownWriteTime" : 3419473789575321445,
+    "last_content_update" : 1586355188614,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
